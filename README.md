@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/ultraware/roles.svg?branch=master)](https://travis-ci.org/ultraware/roles)
+[![Build Status](https://travis-ci.org/xetaio/roles.svg?branch=master)](https://travis-ci.org/xetaio/roles)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ultraware/roles/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ultraware/roles/?branch=5.1)
 [![StyleCI](https://styleci.io/repos/74971525/shield?branch=master)](https://styleci.io/repos/74971525)
 [![Coverage Status](https://coveralls.io/repos/github/ultraware/roles/badge.svg?branch=master)](https://coveralls.io/github/ultraware/roles?branch=5.1)
 
-# Roles And Permissions For Laravel 5
+# Roles And Permissions For Laravel
 
-Powerful package for handling roles and permissions in Laravel 5.
+Powerful package for handling roles and permissions in Laravel.
 
 - [Installation](#installation)
     - [Composer](#composer)
